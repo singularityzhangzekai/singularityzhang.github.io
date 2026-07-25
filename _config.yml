@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "suite.jpeg"
   name             : "Zekai Zhang 张泽恺"
   pronouns         : # example: "she/her"  
   bio              : "B.S. Mathematics and Computer Science in UCSD"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -79,8 +79,8 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  youtube          : "Singlesphotograph"# Username
+  zhihu            : "Singularityzhang"# Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
